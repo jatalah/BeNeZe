@@ -1,0 +1,135 @@
+species,sal,temp,time_1st_hatch,time_last_hatch,time_maturity,source,Data original or derived from plots/figures,location,hatch_success
+Benedenia seriolae,10,18,NA,NA,NA,Ernst et al. 2005,From Figure 3 Ernst et al. 2005,Japan,0
+Benedenia seriolae,10,22,NA,NA,NA,Ernst et al. 2005,From Figure 3 Ernst et al. 2005,Japan,0
+Benedenia seriolae,10,26,NA,NA,NA,Ernst et al. 2005,From Figure 3 Ernst et al. 2005,Japan,0
+Benedenia seriolae,35,30,NA,NA,NA,Ernst raw data,Bseriolae hatching temperature,NA,0
+Benedenia seriolae,15,18,10,10,NA,Ernst et al. 2005,From Figure 3 Ernst et al. 2005,Japan,0
+Benedenia seriolae,50,26,8,8,NA,Ernst et al. 2005,Numerical from Table 1 in Ernst et al. 2005; also shown in Figure 3,Japan,4
+Benedenia seriolae,20,26,6,7,NA,Ernst et al. 2005,Numerical from Table 1 in Ernst et al. 2005; also shown in Figure 3,Japan,12
+Benedenia seriolae,20,22,6,7,NA,Ernst et al. 2005,Numerical from Table 1 in Ernst et al. 2005; also shown in Figure 3,Japan,26
+Benedenia seriolae,50,22,8,10,NA,Ernst et al. 2005,Numerical from Table 1 in Ernst et al. 2005; also shown in Figure 3,Japan,44
+Benedenia seriolae,20,18,9,11,NA,Ernst et al. 2005,Numerical from Table 1 in Ernst et al. 2005; also shown in Figure 3,Japan,50
+Benedenia seriolae,50,18,13,15,NA,Ernst et al. 2005,Numerical from Table 1 in Ernst et al. 2005; also shown in Figure 3,Japan,51
+Benedenia seriolae,35,14,16,19,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 1 in Ernst et al. 2005; from IE poster,Japan,72
+Benedenia seriolae,25,22,5,7,NA,Ernst et al. 2005,From Figure 3 Ernst et al. 2005,Japan,72
+Benedenia seriolae,35,21,7.5,11.5,20,Tubbs et al. 2005,page 4 in text for time to 1st hatch; time to last hatch taken from Figure on page 5,New Zealand,73
+Zeuxapta seriolae,35,13,14,16,52,Tubbs et al. 2005,in text and Figures,New Zealand,75
+Benedenia seriolae,45,22,6,7,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 3 Ernst et al. 2005,Japan,77
+Benedenia seriolae,35,13,20,24,48,Tubbs et al. 2005,page 4 in text for time to 1st hatch; time to last hatch taken from Figure on page 5,New Zealand,78
+Benedenia seriolae,25,26,5,6,NA,Ernst et al. 2005,From Figure 3 Ernst et al. 2005,Japan,80
+Benedenia seriolae,35,24,5,6,NA,Ernst et al. 2005,From text and Figure 1 in Ernst et al. 2005,Japan,84
+Benedenia seriolae,25,18,9,11,NA,Ernst et al. 2005,From Figure 3 Ernst et al. 2005,Japan,84
+Benedenia seriolae,45,26,6,8,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 3 Ernst et al. 2005; Ernst poster,Japan,87
+Benedenia seriolae,35,18,9,11,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 1 in Ernst et al. 2005; from IE poster,Japan,87
+Benedenia seriolae,30,26,5,6,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 3 Ernst et al. 2005; Ernst poster,Japan,88
+Benedenia seriolae,30,22,5,6,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 3 Ernst et al. 2005; Ernst poster,Japan,88
+Benedenia seriolae,45,18,11,13,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 3 Ernst et al. 2005,Japan,89
+Zeuxapta seriolae,35,21,6.5,8,25,Tubbs et al. 2005,in text and Figures,New Zealand,89
+Zeuxapta seriolae,35,17.5,8,9.5,NA,Tubbs et al. 2005,in text and Figures,New Zealand,89
+Benedenia seriolae,40,22,6,7,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 3 Ernst et al. 2005; Ernst poster,Japan,91
+Benedenia seriolae,35,22,6,7,NA,Ernst et al. 2005,From text and Figure 1 in Ernst et al. 2005,Japan,91
+Benedenia seriolae,35,16,11,13,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 1 in Ernst et al. 2005; from IE poster,Japan,92
+Benedenia seriolae,35,28,5,6,NA,Ernst et al. 2005; also Ernst poster (see photo),From text and Figure 1 in Ernst et al. 2005,Japan,92
+Benedenia seriolae,35,20,7,8,NA,Ernst et al. 2005,From Figure 1 in Ernst et al. 2005,Japan,96
+Benedenia seriolae,35,26,5,6,NA,Ernst et al. 2005,From text and Figure 1 in Ernst et al. 2005,Japan,97
+Benedenia seriolae,30,18,9,11,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 3 Ernst et al. 2005,Japan,98
+Benedenia seriolae,40,18,9,11,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 3 Ernst et al. 2005; Ernst poster,Japan,99
+Benedenia seriolae,40,26,6,7,NA,Ernst et al. 2005; TLH from Ernst poster (see photo),From Figure 3 Ernst et al. 2005; Ernst poster,Japan,99
+Benedenia seriolae,35,17.5,9.5,14,NA,Tubbs et al. 2005,page 4 in text for time to 1st hatch; time to last hatch taken from Figure on page 5,New Zealand,NA
+Zeuxapta seriolae,45,28,6,7,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,1
+Zeuxapta seriolae,40,10,24,30,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,13
+Zeuxapta seriolae,35,10,24,31,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,18
+Zeuxapta seriolae,45,10,27,30,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,18
+Zeuxapta seriolae,45,13,19,23,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,18
+Zeuxapta seriolae,30,28,6,8,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,2
+Zeuxapta seriolae,40,28,6,7,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,2
+Zeuxapta seriolae,40,25,4,6,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,22
+Zeuxapta seriolae,40,13,14,18,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,23
+Zeuxapta seriolae,35,25,4,6,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,23
+Neobenedenia girellae,22,22,6,8,NA,Brazenor and Hutson 2015,Original data files,Australia,23
+Neobenedenia girellae,22,34,9,9,NA,Brazenor and Hutson 2015,Original data files,Australia,3
+Zeuxapta seriolae,35,13,14,19,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,30
+Neobenedenia girellae,22,30,4,9,12,Brazenor and Hutson 2015,Original data files,Australia,35
+Neobenedenia girellae,40,34,6,9,8,Brazenor and Hutson 2015,Original data files,Australia,4
+Neobenedenia girellae,22,32,4,4,NA,Brazenor and Hutson 2015,Original data files,Australia,4
+Zeuxapta seriolae,30,13,14,18,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,40
+Zeuxapta seriolae,45,16,7,13,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,42
+Zeuxapta seriolae,30,10,24,29,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,42
+Zeuxapta seriolae,30,25,4,7,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,43
+Zeuxapta seriolae,45,25,4,7,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,47
+Neobenedenia girellae,35,22,6,7,12,Brazenor and Hutson 2015,Original data files,Australia,53
+Zeuxapta seriolae,40,16,7,13,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,55
+Zeuxapta seriolae,35,16,7,13,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,56
+Zeuxapta seriolae,30,16,7,13,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,57
+Neobenedenia girellae,40,24,4,5,12,Brazenor and Hutson 2015,Original data files,Australia,58
+Zeuxapta seriolae,35,28,6,7,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,6
+Neobenedenia girellae,35,30,4,6,6,Brazenor and Hutson 2015,Original data files,Australia,65
+Zeuxapta seriolae,35,19,6,10,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,68
+Zeuxapta seriolae,45,22,5,7,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,68
+Neobenedenia girellae,40,22,7,8,9,Brazenor and Hutson 2015,Original data files,Australia,69
+Zeuxapta seriolae,30,19,6,10,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,70
+Neobenedenia girellae,40,32,4,8,8,Brazenor and Hutson 2015,Original data files,Australia,70
+Zeuxapta seriolae,45,19,6,10,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,73
+Neobenedenia girellae,40,30,4,6,6,Brazenor and Hutson 2015,Original data files,Australia,74
+Neobenedenia girellae,35,24,4,5,11,Brazenor and Hutson 2015,Original data files,Australia,77
+Neobenedenia girellae,35,32,4,8,6,Brazenor and Hutson 2015,Original data files,Australia,77
+Neobenedenia girellae,40,28,4,5,9,Brazenor and Hutson 2015,Original data files,Australia,81
+Neobenedenia girellae,35,28,4,5,9,Brazenor and Hutson 2015,Original data files,Australia,81
+Neobenedenia girellae,40,26,4,5,6,Brazenor and Hutson 2015,Original data files,Australia,83
+Neobenedenia girellae,35,26,4,5,7,Brazenor and Hutson 2015,Original data files,Australia,91
+Zeuxapta seriolae,40,22,4,7,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,92
+Zeuxapta seriolae,30,22,4,8,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,95
+Zeuxapta seriolae,35,22,4,7,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,98
+Neobenedenia girellae,33,30,NA,NA,6,Hirazawa et al. 2010,Numerical from Table 1,Japan,NA
+Neobenedenia girellae,33,25,NA,NA,8,Hirazawa et al. 2010,Numerical from Table 1,Japan,NA
+Neobenedenia girellae,33,20,NA,NA,13,Hirazawa et al. 2010,Numerical from Table 1,Japan,NA
+Neobenedenia girellae,35,30,NA,NA,7,Brazenor et al. 2020,Numerical from Table 1,Australia,NA
+Neobenedenia girellae,35,25,NA,NA,9,Brazenor et al. 2020,Numerical from Table 1,Australia,NA
+Neobenedenia girellae,35,20,NA,NA,12,Brazenor et al. 2020,Numerical from Table 1,Australia,NA
+Benedenia seriolae,35,12.5,17.3,20.5,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",Data as per Table 5 in Ernst et al. 2005,Japan,NA
+Benedenia seriolae,35,15.8,11.6,15.5,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",Data as per Table 5 in Ernst et al. 2005,Japan,NA
+Benedenia seriolae,35,18.5,8.6,15,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",Data as per Table 5 in Ernst et al. 2005,Japan,NA
+Benedenia seriolae,35,21.3,6.5,7.5,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",Data as per Table 5 in Ernst et al. 2005,Japan,NA
+Benedenia seriolae,35,22,6,7,NA,Ernst  poster (see photo),Numerical from Table in Ernst poster; Ernst raw data,Japan,NA
+Benedenia seriolae,35,23.9,5.2,7,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",Data as per Table 5 in Ernst et al. 2005,Japan,NA
+Benedenia seriolae,35,26,5,7,NA,Ernst  poster (see photo),Numerical from Table in Ernst poster; Ernst raw data,Japan,NA
+Benedenia seriolae,35,26.9,4.1,6.8,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",Data as per Table 5 in Ernst et al. 2005,Japan,NA
+Benedenia seriolae,35,29.7,3.3,3.6,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",Data as per Table 5 in Ernst et al. 2005,Japan,NA
+Zeuxapta seriolae,40,26,NA,NA,10,A Mooney thesis,in text,Australia,NA
+Zeuxapta seriolae,40,22,NA,NA,15,A Mooney thesis,in text,Australia,NA
+Zeuxapta seriolae,40,18,NA,NA,21,A Mooney thesis,in text,Australia,NA
+Zeuxapta seriolae,40,14,NA,NA,41,A Mooney thesis,in text,Australia,NA
+Zeuxapta seriolae,40,19,6,10,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from Table in Ernst poster,Australia,NA
+Benedenia seriolae,41,26,NA,NA,14,Lackenby et al. 2007,page 1 in Abstract,Australia,NA
+Benedenia seriolae,41,22,NA,NA,16,Lackenby et al. 2007,page 1 in Abstract,Australia,NA
+Benedenia seriolae,41,18,NA,NA,24,Lackenby et al. 2007,page 1 in Abstract,Australia,NA
+Benedenia seriolae,41,14,NA,NA,41,Lackenby et al. 2007,page 1 in Abstract,Australia,NA
+Neobenedenia girellae,35,25,5,NA,10,Bondad-Reantaso et al. 1998,in text,Japan,NA
+Benedenia seriolae,35,18,NA,NA,25,Tubbs et al. 2005,page 4 in text for time to 1st hatch; time to last hatch taken from Figure on page 5,New Zealand,NA
+Zeuxapta seriolae,35,18,NA,NA,37,Tubbs et al. 2006,in text and Figures,New Zealand,NA
+Neobenedenia girellae,35,15,NA,NA,NA,Bondad-Reantaso et al. 1995,in text,Japan,NA
+Neobenedenia girellae,35,18,8,NA,NA,Bondad-Reantaso et al. 1996,in text,Japan,NA
+Neobenedenia girellae,35,20,7,NA,NA,Bondad-Reantaso et al. 1997,in text,Japan,NA
+Benedenia seriolae,35,23,5,NA,NA,Kearn et al. 1992,in text,Japan,NA
+Benedenia seriolae,35,25,4,6,NA,Hirazawa 2019,Numerical from Results section,Japan,NA
+Neobenedenia girellae,35,25,5,6,NA,Hirazawa 2019,Numerical from Results section,Japan,NA
+Neobenedenia girellae,35,28.5,4,NA,NA,Bondad-Reantaso et al. 1999,in text,Japan,NA
+Neobenedenia girellae,11,22,NA,NA,NA,Brazenor and Hutson 2015,Original data files,Australia,0
+Neobenedenia girellae,11,24,NA,NA,NA,Brazenor and Hutson 2015,Original data files,Australia,0
+Neobenedenia girellae,11,26,NA,NA,NA,Brazenor and Hutson 2015,Original data files,Australia,0
+Neobenedenia girellae,11,28,NA,NA,NA,Brazenor and Hutson 2015,Original data files,Australia,0
+Neobenedenia girellae,11,30,NA,NA,NA,Brazenor and Hutson 2015,Original data files,Australia,0
+Neobenedenia girellae,11,32,NA,NA,NA,Brazenor and Hutson 2015,Original data files,Australia,0
+Neobenedenia girellae,11,34,NA,NA,NA,Brazenor and Hutson 2015,Original data files,Australia,0
+Neobenedenia girellae,22,26,NA,NA,12,Brazenor and Hutson 2015,Original data files,Australia,0
+Neobenedenia girellae,22,24,NA,NA,NA,Brazenor and Hutson 2015,Original data files,Australia,0
+Neobenedenia girellae,22,28,NA,NA,NA,Brazenor and Hutson 2015,Original data files,Australia,0
+Zeuxapta seriolae,30,31,NA,NA,NA,A Mooney thesis,Numerical from A Mooney thesis,Australia,NA
+Neobenedenia girellae,35,34,NA,NA,12,Brazenor and Hutson 2015,Original data files,Australia,0
+Benedenia seriolae,35,6,NA,NA,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",NA,NA,0
+Benedenia seriolae,35,9.4,NA,NA,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",NA,NA,0
+Zeuxapta seriolae,35,31,NA,NA,NA,A Mooney thesis,Numerical from A Mooney thesis,Australia,NA
+Benedenia seriolae,35,33.2,NA,NA,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",NA,NA,0
+Benedenia seriolae,35,36.3,NA,NA,NA,"Hoshina and Matsusato, 1967 same data presented in Hoshina 1968",NA,NA,0
+Zeuxapta seriolae,40,31,NA,NA,NA,Ernst  poster and A Mooney thesis (see photo),Numerical from A Mooney thesis,Australia,NA
+Zeuxapta seriolae,45,31,NA,NA,NA,A Mooney thesis,Numerical from A Mooney thesis,Australia,NA
