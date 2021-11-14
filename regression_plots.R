@@ -84,6 +84,7 @@ ggsave(
   device = 'svg'
 )
 
+<<<<<<< HEAD
 # salinity plot------------
 sal_plots <- 
   obs_all %>% 
@@ -107,6 +108,17 @@ sal_plots <-
     legend.text = element_text(face = 'italic', size = 7),
     legend.background = element_blank()
   )
+=======
+# salinity plot------
+sal_plots <- 
+  ggplot(obs_all, aes(sal, value, color = species)) +
+  geom_point(alpha = .5, position = position_jitter(width = 0.5 )) +
+  stat_smooth(se = F) +
+  scale_color_discrete(guide = F) +
+  labs(x = "Salinity (ppt)", y = 'Days') +
+  facet_grid(name~species, scales = 'free') +
+  theme(strip.text.x = element_text(face = 'italic'))
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
 
 sal_plots
 
@@ -114,5 +126,9 @@ ggsave(
   sal_plots,
   filename = 'figures/salinity_plots.png',
   height = 5,
+<<<<<<< HEAD
   width = 6
+=======
+  width = 5
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
 )

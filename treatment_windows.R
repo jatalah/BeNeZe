@@ -20,11 +20,14 @@ treatment_data <-
          upper_treat = time_maturity - 1)
 
 
+<<<<<<< HEAD
 treatment_data %>% 
   group_by(temp) %>% 
   summarise(Taxa = first(paste0(str_sub(species,start = 1, end = 2), collapse = ""))) %>% 
   clipr::write_clip()
 
+=======
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
 # Add multiple species combinations treatment windows -----
 multiple_spp_pred <-
   treatment_data %>%
@@ -64,9 +67,15 @@ treatment_data_all <-
   bind_rows(treatment_data, multiple_spp_pred, beze_spp_pred, neze_spp_pred, bene_spp_pred) %>%
   arrange(temp) %>%
   filter(if_else(species == "BeNeZe", temp >22 & temp<30, temp>0),
+<<<<<<< HEAD
          if_else(species == "BeZe", temp >11 & temp < 30, temp>0),
          if_else(species == "NeZe", temp >22 & temp < 30, temp>0),
          if_else(species == "BeNe", temp >17 & temp <31, temp>0),) %>% 
+=======
+         if_else(species == "BeZe", temp >11.4 & temp < 30, temp>0),
+         if_else(species == "NeZe", temp >20 & temp < 30, temp>0),
+         if_else(species == "BeNe", temp >29, temp>0),) %>% 
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
   # mutate(upper_treat = if_else(upper_treat>50, 50, upper_treat)) %>% # cap treatment to 50 days
   filter(temp>9 & temp <31) %>%
   mutate(
@@ -78,8 +87,11 @@ treatment_data_all <-
     )
   ) %>%
   filter(temp>9 & temp <31) %>% 
+<<<<<<< HEAD
   mutate(onco_infectivity = onco_longe/2) %>% 
   relocate(onco_infectivity, .after = onco_longe) %>% 
+=======
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
   write_csv('clean_data/predicted_data_and_treatment_windows.csv', na = '')
 
 

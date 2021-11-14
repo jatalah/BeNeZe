@@ -12,19 +12,30 @@ mono <- read_csv('data/mono_clean.csv')
 
 mono_nested <-
   mono %>%
+<<<<<<< HEAD
   filter(sal > 24) %>% 
   group_by(species) %>%
   nest()
 
 
+=======
+  group_by(species) %>%
+  nest()
+
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
 # Find temperature optima for hatching success-----
 h_success_rq <-
   mono_nested %>%
   mutate(
     rq_models = map(.x = data, ~ rq(
       hatch_success ~ poly(temp, df = 2),
+<<<<<<< HEAD
       data = .x,
       tau = .95
+=======
+      data = filter(.x, sal > 24),
+      tau = 1
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
     )),
     rq_predict = map(
       rq_models,
@@ -63,9 +74,14 @@ hatch_success_plot <-
   theme_javier() +
   theme(
     legend.text = element_text(face = 'italic', size = 8),
+<<<<<<< HEAD
     legend.position = c(.15, .8),
     legend.background = element_blank(),
     legend.title = element_blank()
+=======
+    legend.position = c(.25, .2),
+    legend.background = element_blank()
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
   ) +  
   geom_linerange(data = dataLine,
                  aes(
@@ -80,13 +96,19 @@ hatch_success_plot <-
   ) +
   geom_vline(data = peaks, aes(xintercept = peak, color = species), lty = 2) +
   geom_vline(data = peaks, aes(xintercept = peak, color = species), lty = 2)+
+<<<<<<< HEAD
   geom_vline(data = peaks, aes(xintercept = peak, color = species), lty = 2) +
   geom_hline(data = peaks, aes(yintercept = 100), lty = 2) 
+=======
+  geom_vline(data = peaks, aes(xintercept = peak, color = species), lty = 2) 
+
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
 
 ggsave(
   hatch_success_plot,
   filename = 'figures/hatch_success_plot.png',
   height = 4.5,
+<<<<<<< HEAD
   width = 6,
   dpi = 300
 )
@@ -97,3 +119,9 @@ mono %>%
   group_by(species) %>% 
   summarise(mean(hatch_success, na.rm = T))
 
+=======
+  width = 4.5,
+  dpi = 300
+)
+
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49

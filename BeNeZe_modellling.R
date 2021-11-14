@@ -18,7 +18,11 @@ mono <-
   mutate(temp = as.numeric(if_else(temp == "27-30", "28.5", temp)),
          sal = as.numeric(if_else(sal == "seawater", "35", sal))) %>% 
   mutate(hatch_success = 
+<<<<<<< HEAD
            str_replace_all(`Hatch success rate (%)`, pattern = "No hatch|no hatch", "0"),
+=======
+           str_replace_all(`Hatch success rate (%)`, pattern = "No hatch", "0"),
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
          hatch_success = na_if(hatch_success , "ND")) %>% 
   mutate(hatch_success = str_remove_all(
     string = hatch_success,
@@ -39,6 +43,7 @@ mono %>%
     n = ~n()),
     na.rm = T))
 
+<<<<<<< HEAD
 se <- function(x) sqrt(var(x,na.rm=TRUE)/length(na.omit(x)))
 
 summ_cycles <- 
@@ -57,6 +62,8 @@ summ_cycles <-
 
 
 
+=======
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
 # nest data --------
 mono_nested <-
   mono %>%
@@ -75,6 +82,7 @@ onco <-
     pattern =  "\\±.*",
     replacement =  ""
   ) %>%  as.numeric()) %>% 
+<<<<<<< HEAD
   filter(sal>24) %>% 
   mutate(longevity = longevity/24) %>% 
   write_csv('data/onco_longevity_clean.csv')
@@ -91,6 +99,12 @@ onco %>%
     na.rm = T))
 
   
+=======
+  filter(sal>22) %>% 
+  mutate(longevity = longevity/24) %>% 
+  write_csv('data/onco_longevity_clean.csv')
+
+>>>>>>> 4b7500390255736b453959d57af56e047210ca49
 # nest data ----
 onco_nested <-
   onco %>%
